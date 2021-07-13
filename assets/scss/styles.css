@@ -323,6 +323,10 @@ input[type=submit]:hover {
   background-color: #ffe600;
 }
 
+input {
+  outline: none;
+}
+
 .footer__copy {
   text-align: center;
   font-size: var(--small-font-size);
